@@ -1,3 +1,4 @@
 print("vanshika")
 for i in range(10):
       print(i,end="")
+print("for loop ended:")
